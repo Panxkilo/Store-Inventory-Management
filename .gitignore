@@ -1,0 +1,32 @@
+# === Maven ===
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# === Archivos compilados de Java ===
+*.class
+
+# === VS Code ===
+.vscode/
+
+# === Otros IDEs (por si alguien abre el proyecto en otro editor) ===
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# === Logs y archivos del sistema ===
+*.log
+.DS_Store
+Thumbs.db
+
+# === Archivo generado por la demo ===
+inventory.json
+
+# === Documentos y herramientas locales ===
+store-inventory-brief.md
+.claude/
